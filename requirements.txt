@@ -1,8 +1,10 @@
-# Python 3.12 al least is required (not working with Python 3.9 and not tested with other versions)
-tensorflow==2.16.1
+# Python 3.10
+transformers==4.40.1
+torch==2.3.0
 pandas==2.2.1
 matplotlib==3.8.4
 scikit-learn==1.4.2
 spacy==3.7.4
 xgboost==2.0.3
 optuna==3.6.1
+# keras-core==0.1.7
